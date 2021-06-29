@@ -1,4 +1,4 @@
-<h1><body style='background-color:#2e3349'>
+<body style='background-color:#2e3349'>
 <p><span style="color: #ecf0f1;"><strong><span style="font-size: 18pt; font-family: arial, helvetica, sans-serif;">Announcements</span></strong></span></p>
 <p><span style="color: #ecf0f1;"><strong><span style="font-size: 12pt;">--- 08/04/2021</span></strong></span><br /><span style="color: #ecf0f1;">Now you can monitor your workers at the MinerBox app:</span></p>
 <p><span style="color: #ecf0f1;">Android: https://play.google.com/store/apps/details?id=com.witplex.minerbox_android</span></p>
