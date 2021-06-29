@@ -1,10 +1,7 @@
---- 08/04/2021
-Now you can monitor your workers at the MinerBox app:
-
-Android: https://play.google.com/store/apps/details?id=com.witplex.minerbox_android
-
-IOS: https://itunes.apple.com/us/app/minerbox/id1445878254
-
---- 04/04/2021
-NO FEES!
-All fees (pool mining fees and withdrawal fees) will be of 0% until july of 2021
+<p><span style="color: #ecf0f1;"><strong><span style="font-size: 18pt; font-family: arial, helvetica, sans-serif;">Announcements</span></strong></span></p>
+<p><span style="color: #ecf0f1;"><strong><span style="font-size: 12pt;">--- 08/04/2021</span></strong></span><br /><span style="color: #ecf0f1;">Now you can monitor your workers at the MinerBox app:</span></p>
+<p><span style="color: #ecf0f1;">Android: https://play.google.com/store/apps/details?id=com.witplex.minerbox_android</span></p>
+<p><span style="color: #ecf0f1;">IOS: https://itunes.apple.com/us/app/minerbox/id1445878254</span></p>
+<p><span style="color: #ecf0f1;"><strong>--- 04/04/2021</strong></span><br /><span style="color: #ecf0f1;">NO FEES!</span><br /><span style="color: #ecf0f1;">All fees (pool mining fees and withdrawal fees) will be of 0% until july of 2021</span></p>
+<p></p>
+<p><span style="font-size: 14pt; font-family: arial, helvetica, sans-serif; color: #ecf0f1;"></span></p>
